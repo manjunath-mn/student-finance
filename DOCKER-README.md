@@ -1,4 +1,4 @@
-# Other ways of using Docker
+# Other ways of using Docker...
 These are helpful commands if running the application without Docker Compose.
 
 ## Build application image locally using Gradle
